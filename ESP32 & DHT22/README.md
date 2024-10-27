@@ -32,7 +32,7 @@ This project demonstrates how to read temperature and humidity data from a DHT22
 ### Setup Instructions
 1. Clone the repository
 ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/payalsahu1303/ESP32-Projects.git
 ```
 2. Open the code in the Arduino IDE
 3. Update the `api_key` in the code with your ThingSpeak channel's API key
